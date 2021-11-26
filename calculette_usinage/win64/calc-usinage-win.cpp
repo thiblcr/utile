@@ -1,5 +1,6 @@
 // Codé par Thibault Leclair --- 25/11/2021
 #include <iostream>
+#include <stdlib.h>
 using namespace std;
 
 string version = "1.0-win64";
